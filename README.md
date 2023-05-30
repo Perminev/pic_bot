@@ -1,4 +1,3 @@
-# pic_bot
 # Random Picture Bot 1.2v
 ##   *This bot can send:*
 ### ‣ Memes
